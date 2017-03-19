@@ -23,7 +23,7 @@ From Balanced Parentheses in [Cyber Dojo](http://cyber-dojo.org/setup_default_st
 
 ## Motivation
 
-Practice to code following the test-driven development (tdd) process
-Exercises done during the MEAN Stack [Skylabcoders Academy](http://www.skylabcoders.com/) bootcamp.
+Practice to code following the test-driven development (tdd) process   
+Done during the MEAN Stack [Skylabcoders Academy](http://www.skylabcoders.com/) bootcamp.
 
 
