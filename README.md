@@ -1,5 +1,5 @@
 [![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-56.png)](http://www.skylabcoders.com/)
-[![JavaScript](https://github.com/Iggy-Codes/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/)
+[![JavaScript](https://github.com/Iggy-Codes/logo-images/blob/master/logos/js.png)](http://www.w3.org/)
 [![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/) 
 ## Synopsis
 
